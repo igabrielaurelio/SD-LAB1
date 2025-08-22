@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2025-08-16T22:50:35",
+    "backend": "process",
+    "k": 8,
+    "n": 200000,
+    "seed": 123,
+    "input": null,
+    "tag": "run1",
+    "time_sec": 0.569325,
+    "sorted_ok": true
+  },
+  {
+    "timestamp": "2025-08-16T22:51:06",
+    "backend": "process",
+    "k": 8,
+    "n": 200000,
+    "seed": 456,
+    "input": null,
+    "tag": "run2",
+    "time_sec": 0.538862,
+    "sorted_ok": true
+  }
+]
